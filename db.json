@@ -7,12 +7,6 @@
       "reminder": true
     },
     {
-      "id": 2,
-      "text": "Meeting at scjpppl",
-      "day": "Feb 6th at 1:30px",
-      "reminder": true
-    },
-    {
       "id": 4,
       "text": "Dentist",
       "day": "Feb 14th at 3:30px",
@@ -25,15 +19,9 @@
       "id": 5
     },
     {
-      "text": "new task",
-      "day": "14:00",
-      "reminder": false,
-      "id": 6
-    },
-    {
       "text": "take test",
       "day": "friday",
-      "reminder": false,
+      "reminder": true,
       "id": 7
     }
   ]
